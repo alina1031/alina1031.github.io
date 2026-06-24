@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Lina Yang"
-description              : "Personal homepage of Lina Yang, a Ph.D. student at the School of Artificial Intelligence, Shanghai Jiao Tong University. "
 repository               : "alina1031.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +24,7 @@ author:
   avatar           : "images/IMG_3866.JPG"
   bio              : "Ph.D. student at the School of Artificial Intelligence, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ufiyX-IAAAAJ&hl=en"
   email            : "alina_yln@sjtu.edu.cn"
