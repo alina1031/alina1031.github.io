@@ -21,7 +21,7 @@ I am currently a Ph.D. student at the School of Artificial Intelligence, Shangha
 
 My research interests lie in large language models and intelligent agents, with a focus on continual learning, agent memory, and self-evolving AI systems. I am interested in building adaptive models and agents that can learn from evolving data and interactions, retain and leverage prior knowledge, and improve their capabilities over time.
 
-You can find my publications on <a href='https://scholar.google.com/citations?user=ufiyX-IAAAAJ&hl=en'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=ufiyX-IAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can find my publications on <a href='https://scholar.google.com/citations?user=ufiyX-IAAAAJ&hl=en'>Google Scholar</a>.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 SLoRA has been selected as the oral presentation for ACL 2026.
