@@ -107,3 +107,29 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.visitor-map-box {
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+.visitor-map-title {
+  margin-bottom: 0.5em;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+.visitor-map-inner {
+  max-width: 220px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.visitor-map-inner iframe,
+.visitor-map-inner canvas,
+.visitor-map-inner img,
+.visitor-map-inner object,
+.visitor-map-inner embed {
+  max-width: 100% !important;
+  height: auto !important;
+}
