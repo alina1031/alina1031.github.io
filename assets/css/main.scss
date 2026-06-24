@@ -115,12 +115,13 @@ h1:before, .anchor:before {
 
 .visitor-map-title {
   margin-bottom: 0.5em;
-  font-size: 0.9em;
+  font-size: 0.85em;
   font-weight: 600;
 }
 
 .visitor-map-inner {
-  max-width: 220px;
+  width: 220px;
+  max-width: 100%;
   margin: 0 auto;
   overflow: hidden;
 }
