@@ -29,8 +29,8 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 # 📝 Publications 
 
-- [SLoRA: Balancing Plasticity and Forgetting in Large Language Models for Continual Learning](https://aclanthology.org/2026.acl-long.247/), **Lina Yang**, Yusheng Liao, Yanfeng Wang, Yu Wang, **ACL 2026 (Oral)**
-- [AgentEHR: Advancing Autonomous Clinical Decision-Making via Retrospective Summarization](https://aclanthology.org/2026.emnlp-main.1529/), Yusheng Liao<sup>*</sup>, Chuan Xuan<sup>*</sup>, Yutong Cai, **Lina Yang**, Zhe Chen, Yanfeng Wang, Yu Wang, **EMNLP 2026**
+- [SLoRA: Balancing Plasticity and Forgetting in Large Language Models for Continual Learning](https://aclanthology.org/2026.acl-long.247/), **Lina Yang**, Yusheng Liao, Yanfeng Wang, Yu Wang, **ACL 2026 (Oral)**.
+- [AgentEHR: Advancing Autonomous Clinical Decision-Making via Retrospective Summarization](https://aclanthology.org/2026.emnlp-main.1529/), Yusheng Liao<sup>*</sup>, Chuan Xuan<sup>*</sup>, Yutong Cai, **Lina Yang**, Zhe Chen, Yanfeng Wang, Yu Wang, **EMNLP 2026**.
 - [Mitigating Language Prior-Induced Hallucinations via Bi-Level Contrastive Decoding](https://ieeexplore.ieee.org/abstract/document/11463602/), Tianze Xia, Hongcheng Liu, **Lina Yang**, Yu Wang, **ICASSP 2026**.
 - [Graph Open-Set Recognition via Entropy Message Passing](https://ieeexplore.ieee.org/abstract/document/10415791), **Lina Yang**, Bin Lu, Xiaoying Gan, **ICDM 2023**.
 - [Dataexpo: A one-stop dataset service for open science research](https://dl.acm.org/doi/abs/10.1145/3543873.3587305), Bin Lu, Lyuwen Wu, **Lina Yang**, Chenxing Sun, Wei Liu, Xiaoying Gan, Shiyu Liang, Luoyi Fu, Xinbing Wang, Chenghu Zhou, **WWW 2023 Companion**.
